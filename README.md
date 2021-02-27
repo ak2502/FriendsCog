@@ -2,7 +2,7 @@
 Team T.R.I.A.D 's entry for Hackverse 2.0
 
 ## Idea
-Create a web app that helps friends connect and motivate eachother to complete their tasks.
+A web app that helps friends connect and motivate each other to complete their tasks with the added help of a leaderboard with friendly competition.
 
 ## What Should the App Be Able To Do?
 * Allow users to record the tasks to be completed
