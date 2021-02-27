@@ -16,6 +16,7 @@ A web app that helps friends connect and motivate each other to complete their t
 * CSS
 * JS
 * Figma for UI
+* Django framework for backend
 
 ## Libraries and dependencies
 
